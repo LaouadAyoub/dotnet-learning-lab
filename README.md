@@ -43,6 +43,15 @@ integration-experiments/
 
 See the [language notes](01-language-core/README.md), [async notes](02-async-execution/README.md) and [pipeline notes](integration-experiments/README.md).
 
+## Visual notes
+
+I also keep visual notes to revisit the concepts alongside the code.
+[Browse the nine-image gallery](docs/visual-notes/README.md) for delegates,
+generics, exceptions, async execution and the Spiral learning method.
+
+<a href="docs/visual-notes/README.md"><img src="docs/visual-notes/delegates.png" alt="Visual notes on delegates, Func, Action and lambdas" width="260"></a>
+<a href="docs/visual-notes/README.md"><img src="docs/visual-notes/task-async-await.png" alt="Visual notes on Task, async and await" width="260"></a>
+
 ## Run locally
 
 Install the .NET 8 SDK, or a newer SDK with .NET 8 targeting support and the .NET 8 runtime. All seven projects target `net8.0`; there are no third-party package dependencies or required services.
